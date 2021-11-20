@@ -1,0 +1,32 @@
+body {
+  margin: auto;
+  margin-left: 40%;
+}
+
+.responsive {
+  width: 100%;
+  height: auto;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.red {
+  background-color: red;
+  border: red solid 30px;
+  width: 200px;
+}
+
+.blue {
+  width: 140px;
+  border: solid blue 30px;
+}
+
+.green {
+  width: 80px;
+  border: solid green 30px;
+}
